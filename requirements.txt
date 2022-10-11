@@ -1,0 +1,4 @@
+bentoml>=1.0.0
+pydantic
+soundfile
+git+https://github.com/openai/whisper.git
