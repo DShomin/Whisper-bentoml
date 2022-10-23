@@ -45,4 +45,4 @@ There are five model sizes, four with English-only versions, offering speed and 
 cd app
 streamlit run main.py
 ```
-![record-video](/img/record_streamlit.gif =250x250)
+![record-video](/img/record_streamlit.gif)
