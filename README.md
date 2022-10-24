@@ -45,4 +45,6 @@ There are five model sizes, four with English-only versions, offering speed and 
 cd app
 streamlit run main.py
 ```
-![record-video](/img/record_streamlit.gif)
+
+## use om huggning face
+[whisper-streamlit](9https://huggingface.co/spaces/lomit/whisper-streamlit)
