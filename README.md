@@ -46,5 +46,5 @@ cd app
 streamlit run main.py
 ```
 
-## try om huggning face
+## try on huggning face
 [whisper-streamlit](https://huggingface.co/spaces/lomit/whisper-streamlit)
